@@ -94,3 +94,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Related/Inspirations
 - [GarbageNet](https://www.researchgate.net/figure/GarbageNet-classification-and-segmentation-images-with-single-items-are-classified_fig5_351662241)
+- [GarbageNet source](https://github.com/YoruCathy/GarbageNet)
