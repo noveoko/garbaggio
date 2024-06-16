@@ -91,3 +91,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - The Mask R-CNN model used for object detection is based on the torchvision library from PyTorch.
 - Flask and Vue.js communities for their excellent documentation and resources.
+
+### Related/Inspirations
+- [GarbageNet](https://www.researchgate.net/figure/GarbageNet-classification-and-segmentation-images-with-single-items-are-classified_fig5_351662241)
